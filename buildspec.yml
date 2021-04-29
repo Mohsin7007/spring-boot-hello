@@ -15,5 +15,3 @@ artifacts:
     - appspec.yml
     - script_start_server.sh
     - script_stop_server.sh
-    - script_install.sh
-    - script_validate_application.sh 
