@@ -13,3 +13,4 @@ artifacts:
   files:
     - target/gs-spring-boot-0.1.0.jar
     - appspec.yml
+    - script_start_server.sh
